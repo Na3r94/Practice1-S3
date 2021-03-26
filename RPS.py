@@ -3,9 +3,6 @@ import random
 
 items = ['Rock' , 'Paper' , 'Scissor']
 
-# index = random.randint(0,2)
-
-# computer_choice = items[index]
 
 computer_score = 0
 user_score = 0
@@ -20,7 +17,6 @@ while True:
 
     print('3- Exit')
 
-# dastore digit ru peyda knm vas einke age str dadim betune errror bede
 
     print(computer_choice)
     
